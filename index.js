@@ -3,6 +3,19 @@ const fs = require('fs');
 const path = require('path');
 
 const server = http.createServer((req, res) => {
+
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
+
+  if (req.method === 'OPTIONS') {
+    res.writeHead(200);
+    res.end();
+    return;
+  }
+
+
   if (req.url === '/' && req.method === 'GET') {
 
     fs.readFile('db.json', 'utf8', (err, data) => {
