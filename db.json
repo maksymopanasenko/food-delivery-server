@@ -1,7 +1,7 @@
 [
   {
       "name": "Shrimps",
-      "image": "food.png",
+      "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
       "price": 9.5,
       "time": 40,
       "assessment": 5,
@@ -9,7 +9,7 @@
   },
   {
       "name": "Bowl",
-      "image": "food.png",
+      "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
       "price": 12,
       "time": 50,
       "assessment": 5,
@@ -17,7 +17,7 @@
   },
   {
       "name": "Fries",
-      "image": "food.png",
+      "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
       "price": 5.3,
       "time": 25,
       "assessment": 4,

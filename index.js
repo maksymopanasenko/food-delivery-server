@@ -25,28 +25,8 @@ const server = http.createServer((req, res) => {
         return;
       }
 
-      try {
-        const jsonData = JSON.parse(data);
-        const images = [];
-
-        for (const item of jsonData) {
-          const imagePath = path.join(__dirname, 'image', item.image);
-          console.log(imagePath)
-          const image = fs.readFileSync(imagePath, 'base64');
-          images.push(image);
-        }
-
-        const responseData = {
-          data: jsonData,
-          images: images,
-        };
-
         res.writeHead(200, { 'Content-Type': 'application/json' });
-        res.end(JSON.stringify(responseData));
-      } catch (error) {
-        res.writeHead(500, { 'Content-Type': 'text/plain' });
-        res.end('Internal Server Error');
-      }
+        res.end(data);
     });
   } else {
     res.writeHead(404, { 'Content-Type': 'text/plain' });
