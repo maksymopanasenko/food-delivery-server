@@ -1,0 +1,26 @@
+[
+  {
+      "name": "Shrimps",
+      "image": "food.png",
+      "price": 9.5,
+      "time": 40,
+      "assessment": 5,
+      "id": 1
+  },
+  {
+      "name": "Bowl",
+      "image": "food.png",
+      "price": 12,
+      "time": 50,
+      "assessment": 5,
+      "id": 2
+  },
+  {
+      "name": "Fries",
+      "image": "food.png",
+      "price": 5.3,
+      "time": 25,
+      "assessment": 4,
+      "id": 3
+  }
+]
