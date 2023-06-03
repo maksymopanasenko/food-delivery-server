@@ -59,28 +59,44 @@
   ],
   [
     {
-        "name": "2 Chicken Littles",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 9.5,
-        "time": 40,
-        "assessment": 5,
+        "name": "Twister",
+        "image": "https://i.pinimg.com/originals/29/72/b2/2972b2fdcd1eec1fe8a7f9e09b3c9029.png",
+        "price": 4.29,
+        "time": 20,
+        "assessment": 4.1,
         "id": 1
     },
     {
-        "name": "KFC Famous Bowls",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 12,
-        "time": 50,
-        "assessment": 5,
+        "name": "Best of KFC for 2",
+        "image": "https://i.pinimg.com/originals/5c/d5/76/5cd57630c9825ac3d4f03107fa3f41df.png",
+        "price": 8.89,
+        "time": 35,
+        "assessment": 4.7,
         "id": 2
     },
     {
-        "name": "Pot Pie",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 5.3,
-        "time": 25,
-        "assessment": 4,
+        "name": "Shake Peanut Butter",
+        "image": "https://i.pinimg.com/originals/46/30/08/4630087c6827678a9ecd222153bf2b55.png",
+        "price": 2.39,
+        "time": 15,
+        "assessment": 4.5,
         "id": 3
+    },
+    {
+        "name": "Chicken Kentucky",
+        "image": "https://i.pinimg.com/originals/70/08/80/7008806ae66fed32b5cfe0908329d6b8.png",
+        "price": 4.29,
+        "time": 20,
+        "assessment": 4.4,
+        "id": 4
+    },
+    {
+        "name": "Grander",
+        "image": "https://i.pinimg.com/originals/9f/9f/e3/9f9fe3f249877f5d02a712a562884dd5.png",
+        "price": 5.29,
+        "time": 20,
+        "assessment": 4.4,
+        "id": 5
     }
   ],
   [
