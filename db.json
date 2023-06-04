@@ -101,64 +101,136 @@
   ],
   [
     {
-        "name": "Ultimate Steak",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 9.5,
-        "time": 40,
-        "assessment": 5,
+        "name": "Chipotle cheese steak",
+        "image": "https://i.pinimg.com/originals/fc/b3/b0/fcb3b0fb72833ad6dd0e0c1d2607c2c2.jpg",
+        "price": 6.49,
+        "time": 20,
+        "assessment": 4.8,
         "id": 1
     },
     {
-        "name": "Meatball Marinara",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 12,
-        "time": 50,
-        "assessment": 5,
+        "name": "Tomato Toastie",
+        "image": "https://i.pinimg.com/originals/9d/77/8f/9d778fdffb669e844d41f92efe8d0a07.jpg",
+        "price": 4.99,
+        "time": 15,
+        "assessment": 4.4,
         "id": 2
     },
     {
-        "name": "Steak & Cheese",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 5.3,
-        "time": 25,
-        "assessment": 4,
+        "name": "Sweet onion chicken",
+        "image": "https://i.pinimg.com/originals/59/13/20/59132030074f2afdbfad32a00aab3a00.jpg",
+        "price": 5.39,
+        "time": 15,
+        "assessment": 4.0,
         "id": 3
+    },
+    {
+        "name": "Quesadilla chicken",
+        "image": "https://i.pinimg.com/originals/eb/9d/6b/eb9d6b4202f8c0f0d4df532416b469c6.jpg",
+        "price": 4.99,
+        "time": 15,
+        "assessment": 4.5,
+        "id": 4
+    },
+    {
+        "name": "Cheesy BBQ Bacon",
+        "image": "https://i.pinimg.com/originals/d8/96/10/d8961058ccd30c69f59ef2486754a85d.jpg",
+        "price": 6.99,
+        "time": 20,
+        "assessment": 4.7,
+        "id": 5
+    },
+    {
+        "name": "Baked potatoes",
+        "image": "https://i.pinimg.com/originals/46/27/09/46270909a8bf5ddb4d0715fce7343a3a.jpg",
+        "price": 4.79,
+        "time": 20,
+        "assessment": 4.2,
+        "id": 6
     }
   ],
   [
     {
-        "name": "Soft Taco",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 9.5,
-        "time": 40,
-        "assessment": 5,
+        "name": "Cheese Nachos",
+        "image": "https://i.pinimg.com/originals/a1/77/ca/a177ca2ec8d232ba224e5e82adebc872.png",
+        "price": 2.39,
+        "time": 10,
+        "assessment": 4.2,
         "id": 1
     },
     {
-        "name": "Doritos Locos Taco",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 12,
-        "time": 50,
-        "assessment": 5,
+        "name": "Nachos",
+        "image": "https://i.pinimg.com/originals/1f/53/a8/1f53a835013e50e2158b81f59df671a1.png",
+        "price": 1.59,
+        "time": 10,
+        "assessment": 3.9,
         "id": 2
     },
     {
-        "name": "Bean Burrito",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 5.3,
-        "time": 25,
-        "assessment": 4,
+        "name": "Crunchy Taco Supreme",
+        "image": "https://i.pinimg.com/originals/a0/92/cd/a092cd01007a3c8e9c4c2fb66b4237ba.png",
+        "price": 1.99,
+        "time": 15,
+        "assessment": 4.3,
         "id": 3
+    },
+    {
+        "name": "Cheese Bacon Burrito",
+        "image": "https://i.pinimg.com/originals/d0/2c/da/d02cda48add2cb45b0ec9306f14f25d2.png",
+        "price": 4.79,
+        "time": 20,
+        "assessment": 4.7,
+        "id": 4 
     }
   ],
   [
     {
-        "name": "Double King's Chorizo",
-        "image": "https://i.pinimg.com/564x/f0/07/ce/f007ce4edb337d9aa40fb9dc5b38d09d.jpg",
-        "price": 9.5,
-        "time": 40,
-        "assessment": 5,
+        "name": "Onion Rings",
+        "image": "https://i.pinimg.com/originals/db/72/76/db72768351036a5cbcc584d98b05927e.png",
+        "price": 2.29,
+        "time": 10,
+        "assessment": 4.9,
         "id": 1
+    },
+    {
+        "name": "Hot Chili Cheese Chicken",
+        "image": "https://i.pinimg.com/originals/71/4a/73/714a737efe311d5b3643d67003531d9d.png",
+        "price": 5.79,
+        "time": 20,
+        "assessment": 4.8,
+        "id": 2
+    },
+    {
+        "name": "Italiano Chicken Royale Salad",
+        "image": "https://i.pinimg.com/originals/eb/14/90/eb1490019e9267a5b9bd22dca9423c10.png",
+        "price": 4.79,
+        "time": 15,
+        "assessment": 4.4,
+        "id": 3
+    },
+    {
+        "name": "Ice-cream Fusion KITKAT",
+        "image": "https://i.pinimg.com/originals/aa/b3/81/aab381f4ae25b36a1ba0a42d5ae3da04.png",
+        "price": 2.19,
+        "time": 10,
+        "assessment": 4.5,
+        "id": 4
+    },
+    {
+        "name": "Chicken Royale",
+        "image": "https://i.pinimg.com/originals/11/09/a4/1109a4bcb2e5d35ebf9fb1fd36262b8a.png",
+        "price": 4.79,
+        "time": 15,
+        "assessment": 4.3,
+        "id": 5
+    },
+    {
+        "name": "Steakhouse Chicken Pocket",
+        "image": "https://i.pinimg.com/originals/c1/74/83/c1748343e1f62732d522a1c6a4988e25.png",
+        "price": 5.79,
+        "time": 20,
+        "assessment": 4.5,
+        "id": 6
     }
   ]
 ]
