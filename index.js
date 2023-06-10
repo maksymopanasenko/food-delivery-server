@@ -4,7 +4,7 @@ const path = require('path');
 
 const server = http.createServer((req, res) => {
 
-  res.setHeader('Access-Control-Allow-Origin', 'https://maksymopanasenko.github.io');
+  res.setHeader('Access-Control-Allow-Origin', 'https://maksymopanasenko.github.io, http://localhost:3000');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
   res.setHeader('Access-Control-Allow-Credentials', 'true');
